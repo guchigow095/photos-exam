@@ -1,2 +1,13 @@
-# photos-exam
-Fullstack CRUD app with file upload
+# Photos-Exam - Фотогалерея (Fullstack CRUD)
+
+Приложение для добавления и отображения фотографий.
+
+## 🛠 Стек технологий
+- **Frontend:** React, TypeScript, Redux, Vite
+- **Backend:** Node.js, Express, Multer (загрузка файлов)
+
+## Функционал
+- Добавление фото с названием.
+- Сохранение изображений на сервере в папку `uploads`.
+- Редактирование и удаление записей.
+- Обработка ошибок при загрузке файлов.
